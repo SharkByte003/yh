@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<!--
+	Cosmix by TEMPLATE STOCK
+	templatestock.co @templatestock
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Shark Byte Games</title>
+<!--Bootstrap-->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+<!--Stylesheets-->
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<!--Responsive-->
+<link rel="stylesheet" type="text/css" href="css/responsive.css">
+<!--Animation-->
+<link rel="stylesheet" type="text/css" href="css/animate.css">
+<!--Prettyphoto-->
+<link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+<!--Font-Awesome-->
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+<!--Owl-Slider-->
+<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="css/owl.theme.css">
+<link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
+<!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+  [endif]-->
+</head>
+<body data-spy="scroll" data-target=".navbar-default" data-offset="100">
+<!--Preloader-->
+<div id="preloader">
+  <div id="pre-status">
+    <div class="preload-placeholder"></div>
+  </div>
+</div>
+<!--Navigation-->
+<header id="menu">
+  <div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          <a class="navbar-brand" href="#menu"><img src="images/Logo/Free_Sample_By_Wix (1).jfif" alt=""></a> </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="active"><a class="scroll" href="#menu">Home</a></li>
+            <li><a class="scroll" href="#about">Our Games</a></li>
+            <li><a class="scroll" href="#service">Downloads</a></li>
+            <li><a class="scroll" href="#pricing">Pricing</a></li>
+          </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+    </div>
+  </div>
+</header>
+<!--Slider-Start-->
+<section id="slider">
+  <div id="home-carousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="item active" style="background-image:url(images/Logo/Free_Sample_By_Wix (1).jfif)">
+        <div class="carousel-caption container">
+          <div class="row">
+            <div class="col-md-7 col-sm-12 col-xs-12">
+              <h1>We Are SHark Byte</h1>
+              <h2>Computor Games Company</h2>
+              <p>We make high quality Games on Both Computers And Mobiles</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" style="background-image:url(images/Slider/Free_Sample_By_Wix (1).jfif)">
+        <div class="carousel-caption container">
+          <div class="row">
+            <div class="col-md-7 col-sm-12 col-xs-12">
+              <h1>We Are SHark Byte</h1>
+              <h2>Computor Games Company</h2>
+              <p>We make high quality Games on Both Computers And Mobiles</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" style="background-image:url("images/Logo/Free_Sample_By_Wix (1).jfif>
+        <div class="carousel-caption container">
+          <div class="row">
+             <div class="col-md-7 col-sm-12 col-xs-12">
+              <h1>We Are SHark Byte</h1>
+              <h2>Computor Games Company</h2>
+              <p>We make high quality Games on Both Computers And Mobiles</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="home-carousel-left" href="#home-carousel" data-slide="prev"><i class="fa fa-angle-left"></i></a> <a class="home-carousel-right" href="#home-carousel" data-slide="next"><i class="fa fa-angle-right"></i></a> </div>
+  </div>
+  <!--/#home-carousel-->
+</section>
+<!--About-Section-Start-->
+<section id="about">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>Our <span>Games</span></h2>
+        <div class="line"></div>
+        <p><span><strong>We</strong></span> Create High Quality Games Which You Like</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 ab-sec">
+        <div class="col-md-6">
+          <h2 class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms"><span>Our</span> Upcoming Games</h2>
+          <h4><span><strong>M</strong></span>aze Simulator 3D(Only On This Website For Now)</h4>
+          <h4><span><strong>O</strong></span>nce Upon A Time In Korea</h4>
+          <h4><span><strong>D</strong></span>rivers League
+  <div class="container">
+    <div class="col-md-10 col-sm-10 col-xs-8">
+    </div>
+    <div class="col-md-2 col-sm-2 col-xs-4"> <a class="btn-down" href="#">Download</a> </div>
+  </div>
+</div>
+<!--Service-Section-Start-->
+<section id="service">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>ABOUT OUR GAM<span>ES</span></h2>
+        <div class="line"></div>
+        <h3><span><strong>OU</strong></span>R Games Are Mostly Free But Games Like Once Upon A Time In Korea Require A Small Amount Of Fee To Acsess</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="features-sec">
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+          <div class="media service-box">
+            <div class="pull-left"> <i class="fa fa-line-chart"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Updates</h5>
+              <p>Dont Worry Guys! We Update Our Games once in two months So You Do'nt
+              Get Bored!!!</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
+          <div class="media service-box">
+            <div class="pull-left"> <i class="fa fa-cubes"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Support Team</h5>
+              <p>If You Found Any Bugs In Our Games Then Dont Wait,Instead You Give Us Complain Immediatly</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
+          <div class="media service-box">
+            <div class="pull-left"> <i class="fa fa-pie-chart"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Download Platforms</h5>
+              <p>Our Games Would Be Avilable to Download At this Website,Epic Games And Gog.com</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
+          <div class="media service-box">
+            <div class="pull-left"> <i class="fa fa-bar-chart"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">How Our Games Are Made</h5>
+              <p>After Our Game Is Completed,We Test It 2-3 Times So you Could Have The Best User Experiance!.</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
+          <div class="media service-box">
+            <div class="pull-left"> <i class="fa fa-language"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Our Mobile Games</h5>
+              <p>We Will Release Our Mobile Version of Games In Adroid And In Future, Games Will Come On IOS Also! </p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="500ms">
+          <div class="media service-box">
+            <div class="pull-left"> <i class="fa fa-bullseye"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Game Quality</h5>
+              <p>We Make Games At 1080p Because Quality Is The Most Important Thing In Games!.</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+      </div>
+    </div>
+    <div class="experience">
+      <div class="col-sm-6 col-xs-12">
+        <div class="our-skills wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">
+          <div class="single-skill wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <p class="lead">Your Hapiness!</p>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="90" style="width: 250%;"> Infinity% </div>
+            </div>
+          </div>
+          <div class="single-skill wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="400ms">
+            <p class="lead">User Experience</p>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="80" style="width: 250%;"> Infinity% </div>
+            </div>
+          </div>
+          <div class="single-skill wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
+            <p class="lead">Coding</p>
+            <div class="progress">
+              <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar" aria-valuenow="0" aria-valuemin="100" aria-valuemax="60" style="width: 60%;"> 60% </div>
+            </div>
+          </div>
+          <div class="single-skill wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <p class="lead">Fun</p>
+            <div class="progress">
+              <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar" aria-valuenow="0" aria-valuemin="100" aria-valuemax="70" style="width: 350%;"> infinity% </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6  wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms"> <img src="images/Logo/Free_Sample_By_Wix (1).jfif" class="img-responsive" alt=""> </div>
+    </div>
+  </div>
+</section>
+<!--/.portfolio-item-->
+    </div>
+  </div>
+</section>
+<!--Pricing-Section-Start-->
+<section id="pricing">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>Game Downloa<span>ds</span></h2>
+        <div class="line"></div>
+        <p><span><strong>Download</strong></span> Games for free Or Pay to Play!!.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6 col-md-3">
+        <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="0ms">
+          <ul class="pricing">
+            <li class="plan-header">
+              <div class="price-duration">
+                <div class="price"> Free </div>
+                <div class="duration"> Maze Simulator </div>
+              </div>
+              <div class="plan-name"> Starter </div>
+            </li>
+            <li><strong>Full</strong> Game Acsess</li>
+            <li><strong>Size</strong> 82.9 MB</li>
+            <li><strong>LIFETIME</strong> FREE</li>
+            <li><strong>Support</strong> Avilable</li>
+            <a href="https://doc-b0-44-drive-data-export.googleusercontent.com/download/6hefvs9v90htimv6voc85ulim5irjk6i/84o9t6hmq7j3kbed8hkqooi9tt2vdiim/1641357000000/9fea8c55-238a-4bae-afcb-55ecffa45f8f/107553948437202991824/ADt3v-MLKetFWOt0gFmP1R7yymCVZ-j1wdW2buViD2qcas_YKOqHAv8iPAXTALq6oqJvMiKzA8JkEPdx16cm-g1Bsara581Vb7YvB99MeBmazwAv4DWCZcLgN-BSKrEr9TJ7Gfa1Ktj2H59eMF3LO0GOppICrEESSZ3J61oQxwJ4Rwdmf_Kenv7LYHwYrgNo6AwvL8g6LtvhkSCiniArHK6FJSKEYTO1ooxNKsSpg0MQeAQEvYgxb6M-tlOMAgZdZ6OBc-GRCpL85iN-DJ9WkdpRzdKFdBu7ksGfolCr6kcNKffzSJPhODGZ16CzbL9YNvnTLnpm1Goc?authuser=0&nonce=jhauli8jn1q2m&user=107553948437202991824&hash=68plrk4idq9vf5dek01upjjdmiks3ul2">Click to Download</a>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="200ms">
+          <ul class="pricing">
+            <li class="plan-header">
+              <div class="price-duration">
+                <div class="price"> Coming soon </div>
+                <div class="duration">  </div>
+              </div>
+              <div class="plan-name"> Once Upon A Time In Korea </div>
+            </li>
+            <li><strong></strong> </li>
+            <li><strong>Type-</strong> PAID</li>
+            <li><strong></strong></li>
+            <li></li>
+            <li><strong></strong></li>
+            <li><strong></strong> </li>
+            
+          </ul>
+        </div>
+      </div>
+      
+</section>
+
+<div id="client">
+  <div class="container">
+    <div id="client-slider" class="owl-carousel">
+      <div class="item client-logo"Free_Sample_By_Wix (1).jfifref="#"><img src="images/clients/4.png" class="img-responsive" alt=""/></a> </div>
+    </div>
+  </div>
+</div>
+<!--Contact-Section-Start-->
+
+    </div>
+  </div>
+</section>
+<footer id="footer">
+  <div class="bg-sec">
+    <div class="container">
+      <h2>LOOKING FORWARD TO <strong>HEARING </strong>FROM YOU!</h2>
+    </div>
+  </div>
+</footer>
+<footer id="footer-down">
+  <h2>Follow Us On</h2>
+  <ul class="social-icon">
+    <li class="youtube hvr-pulse"><a href="https://www.youtube.com/channel/UCJ_xUhVuk5SZn8gbw-i0sfQ"><i class="fa fa-youtube"></i></a></li>
+    
+  </ul>
+</footer>
+<!--Jquery-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<!--Boostrap-Jquery-->
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<!--Preetyphoto-Jquery-->
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<!--NiceScroll-Jquery-->
+<script type="text/javascript" src="js/jquery.nicescroll.js"></script>
+<script type="text/javascript" src="js/waypoints.min.js"></script>
+<!--Isotopes-->
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<!--Wow-Jquery-->
+<script type="text/javascript" src="js/wow.js"></script>
+<!--Count-Jquey-->
+<script type="text/javascript" src="js/jquery.countTo.js"></script>
+<script type="text/javascript" src="js/jquery.inview.min.js"></script>
+<!--Owl-Crousels-Jqury-->
+<script type="text/javascript" src="js/owl.carousel.js"></script>
+<!--Main-Scripts-->
+<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
+
+<!-- Hosting24 Analytics Code -->
+<script type="text/javascript" src="http://stats.hosting24.com/count.php"></script>
+<!-- End Of Analytics Code -->
